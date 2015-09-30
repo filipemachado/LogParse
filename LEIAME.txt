@@ -1,0 +1,14 @@
+Configuração para executar o LOG PARSER.bat e MEANS OF DEATH.bat:
+
+	* Deve existir no diretório raiz "LogParse.jar".
+	* Deve existir no diretório "arquivos\games.log".
+
+Documentação:
+
+	* Java DOC no diretório "documentação\javadoc\index.html".
+	* Diagrama de Sequencia "documentação\diagrama de sequencia.png".
+
+Testes Unitarios
+
+	* JUnit localizado no diretório "C:\isoConverterFile\src\br\com\junit\test\LogParserTest.java"
+	

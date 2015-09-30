@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: br.com.wake.main.LogParserMain
+Class-Path: lib/commons-cli-1.2.jar lib/jdom-1.1.3.jar lib/bsh-2.0b5.jar lib/javatuples-1.2.jar lib/jdbm-1.0.jar lib/je-4.0.92.jar lib/jline-1.0.jar lib/json-simple-1.1.1.jar
+
+			
